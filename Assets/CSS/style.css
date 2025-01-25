@@ -131,7 +131,7 @@ ul .home-active{color: #f6d365;}
 .satay-text .satay-p{font-size: 2rem; margin-bottom: 74px;}
 
 /* ========== wrap-5 ======== */
-.wrap-5{background: url(../image/wrap-5-bg.webp) no-repeat top/cover; width: auto; height: 796px;}
+.wrap-5{background: url(../image/wrap-5-bg.webp) no-repeat top/cover; width: auto; height: auto; padding-bottom: 70px;}
 .wrap-5 .testimonial{padding-top:92px; }
 .wrap-5 .testimo-img{margin-bottom: 84px;}
 .wrap-5 .testimo-p{font-size: 37px; margin-bottom: 56px; padding: 0 155px;}
