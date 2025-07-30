@@ -1,1 +1,1 @@
-Check Project:- https://codewithfarzu.github.io/Restaurent-with-Responsive-and-javaScript/
+Check Project:-  https://codewithfarzu.github.io/Restaurent-with-Responsive-and-javaScript/
